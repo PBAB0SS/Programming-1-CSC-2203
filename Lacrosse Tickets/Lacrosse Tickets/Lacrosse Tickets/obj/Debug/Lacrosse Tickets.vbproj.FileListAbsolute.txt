@@ -1,0 +1,10 @@
+c:\users\big_n\documents\visual studio 2012\Projects\Lacrosse Tickets\Lacrosse Tickets\bin\Debug\Lacrosse Tickets.exe.config
+c:\users\big_n\documents\visual studio 2012\Projects\Lacrosse Tickets\Lacrosse Tickets\bin\Debug\Lacrosse Tickets.exe
+c:\users\big_n\documents\visual studio 2012\Projects\Lacrosse Tickets\Lacrosse Tickets\bin\Debug\Lacrosse Tickets.pdb
+c:\users\big_n\documents\visual studio 2012\Projects\Lacrosse Tickets\Lacrosse Tickets\bin\Debug\Lacrosse Tickets.xml
+c:\users\big_n\documents\visual studio 2012\Projects\Lacrosse Tickets\Lacrosse Tickets\obj\Debug\Lacrosse_Tickets.Form1.resources
+c:\users\big_n\documents\visual studio 2012\Projects\Lacrosse Tickets\Lacrosse Tickets\obj\Debug\Lacrosse_Tickets.Resources.resources
+c:\users\big_n\documents\visual studio 2012\Projects\Lacrosse Tickets\Lacrosse Tickets\obj\Debug\Lacrosse Tickets.vbproj.GenerateResource.Cache
+c:\users\big_n\documents\visual studio 2012\Projects\Lacrosse Tickets\Lacrosse Tickets\obj\Debug\Lacrosse Tickets.exe
+c:\users\big_n\documents\visual studio 2012\Projects\Lacrosse Tickets\Lacrosse Tickets\obj\Debug\Lacrosse Tickets.xml
+c:\users\big_n\documents\visual studio 2012\Projects\Lacrosse Tickets\Lacrosse Tickets\obj\Debug\Lacrosse Tickets.pdb

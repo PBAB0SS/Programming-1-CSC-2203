@@ -1,0 +1,10 @@
+C:\Users\big_n\OneDrive - Palm Beach Atlantic University\Visual Studio 2012\Projects\Smartphone Plans\Smartphone Plans\bin\Debug\Smartphone Plans.exe.config
+C:\Users\big_n\OneDrive - Palm Beach Atlantic University\Visual Studio 2012\Projects\Smartphone Plans\Smartphone Plans\bin\Debug\Smartphone Plans.exe
+C:\Users\big_n\OneDrive - Palm Beach Atlantic University\Visual Studio 2012\Projects\Smartphone Plans\Smartphone Plans\bin\Debug\Smartphone Plans.pdb
+C:\Users\big_n\OneDrive - Palm Beach Atlantic University\Visual Studio 2012\Projects\Smartphone Plans\Smartphone Plans\bin\Debug\Smartphone Plans.xml
+C:\Users\big_n\OneDrive - Palm Beach Atlantic University\Visual Studio 2012\Projects\Smartphone Plans\Smartphone Plans\obj\Debug\Smartphone_Plans.Form1.resources
+C:\Users\big_n\OneDrive - Palm Beach Atlantic University\Visual Studio 2012\Projects\Smartphone Plans\Smartphone Plans\obj\Debug\Smartphone_Plans.Resources.resources
+C:\Users\big_n\OneDrive - Palm Beach Atlantic University\Visual Studio 2012\Projects\Smartphone Plans\Smartphone Plans\obj\Debug\Smartphone Plans.vbproj.GenerateResource.Cache
+C:\Users\big_n\OneDrive - Palm Beach Atlantic University\Visual Studio 2012\Projects\Smartphone Plans\Smartphone Plans\obj\Debug\Smartphone Plans.exe
+C:\Users\big_n\OneDrive - Palm Beach Atlantic University\Visual Studio 2012\Projects\Smartphone Plans\Smartphone Plans\obj\Debug\Smartphone Plans.xml
+C:\Users\big_n\OneDrive - Palm Beach Atlantic University\Visual Studio 2012\Projects\Smartphone Plans\Smartphone Plans\obj\Debug\Smartphone Plans.pdb

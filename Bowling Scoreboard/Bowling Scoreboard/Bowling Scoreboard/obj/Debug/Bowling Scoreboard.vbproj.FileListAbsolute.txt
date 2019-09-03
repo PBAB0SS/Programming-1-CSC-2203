@@ -1,0 +1,20 @@
+c:\users\student\documents\visual studio 2012\Projects\Bowling Scoreboard\Bowling Scoreboard\bin\Debug\Bowling Scoreboard.exe.config
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Bowling Scoreboard\Bowling Scoreboard\bin\Debug\Bowling Scoreboard.exe
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Bowling Scoreboard\Bowling Scoreboard\bin\Debug\Bowling Scoreboard.pdb
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Bowling Scoreboard\Bowling Scoreboard\bin\Debug\Bowling Scoreboard.xml
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Bowling Scoreboard\Bowling Scoreboard\obj\Debug\Bowling_Scoreboard.Form1.resources
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Bowling Scoreboard\Bowling Scoreboard\obj\Debug\Bowling_Scoreboard.Resources.resources
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Bowling Scoreboard\Bowling Scoreboard\obj\Debug\Bowling Scoreboard.vbproj.GenerateResource.Cache
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Bowling Scoreboard\Bowling Scoreboard\obj\Debug\Bowling Scoreboard.exe
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Bowling Scoreboard\Bowling Scoreboard\obj\Debug\Bowling Scoreboard.xml
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Bowling Scoreboard\Bowling Scoreboard\obj\Debug\Bowling Scoreboard.pdb
+F:\Bowling Scoreboard\Bowling Scoreboard\bin\Debug\Bowling Scoreboard.exe.config
+F:\Bowling Scoreboard\Bowling Scoreboard\obj\Debug\Bowling Scoreboard.exe
+F:\Bowling Scoreboard\Bowling Scoreboard\obj\Debug\Bowling Scoreboard.xml
+F:\Bowling Scoreboard\Bowling Scoreboard\obj\Debug\Bowling Scoreboard.pdb
+F:\Bowling Scoreboard\Bowling Scoreboard\bin\Debug\Bowling Scoreboard.exe
+F:\Bowling Scoreboard\Bowling Scoreboard\bin\Debug\Bowling Scoreboard.pdb
+F:\Bowling Scoreboard\Bowling Scoreboard\bin\Debug\Bowling Scoreboard.xml
+F:\Bowling Scoreboard\Bowling Scoreboard\obj\Debug\Bowling_Scoreboard.Form1.resources
+F:\Bowling Scoreboard\Bowling Scoreboard\obj\Debug\Bowling_Scoreboard.Resources.resources
+F:\Bowling Scoreboard\Bowling Scoreboard\obj\Debug\Bowling Scoreboard.vbproj.GenerateResource.Cache

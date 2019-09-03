@@ -1,0 +1,10 @@
+c:\users\big_n\documents\visual studio 2012\Projects\Guitar Store\Guitar Store\bin\Release\Guitar Store.exe.config
+c:\users\big_n\documents\visual studio 2012\Projects\Guitar Store\Guitar Store\bin\Release\Guitar Store.exe
+c:\users\big_n\documents\visual studio 2012\Projects\Guitar Store\Guitar Store\bin\Release\Guitar Store.pdb
+c:\users\big_n\documents\visual studio 2012\Projects\Guitar Store\Guitar Store\bin\Release\Guitar Store.xml
+c:\users\big_n\documents\visual studio 2012\Projects\Guitar Store\Guitar Store\obj\Release\Guitar_Store.Form1.resources
+c:\users\big_n\documents\visual studio 2012\Projects\Guitar Store\Guitar Store\obj\Release\Guitar_Store.Resources.resources
+c:\users\big_n\documents\visual studio 2012\Projects\Guitar Store\Guitar Store\obj\Release\Guitar Store.vbproj.GenerateResource.Cache
+c:\users\big_n\documents\visual studio 2012\Projects\Guitar Store\Guitar Store\obj\Release\Guitar Store.exe
+c:\users\big_n\documents\visual studio 2012\Projects\Guitar Store\Guitar Store\obj\Release\Guitar Store.xml
+c:\users\big_n\documents\visual studio 2012\Projects\Guitar Store\Guitar Store\obj\Release\Guitar Store.pdb

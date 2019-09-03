@@ -1,0 +1,12 @@
+c:\users\student\documents\visual studio 2012\Projects\Franchise Investment\Franchise Investment\bin\Debug\Franchise Investment.exe.config
+F:\Franchise Investment\Franchise Investment\bin\Debug\Franchise Investment.exe.config
+F:\Franchise Investment\Franchise Investment\bin\Debug\Franchise Investment.exe
+F:\Franchise Investment\Franchise Investment\bin\Debug\Franchise Investment.pdb
+F:\Franchise Investment\Franchise Investment\bin\Debug\Franchise Investment.xml
+F:\Franchise Investment\Franchise Investment\obj\Debug\Franchise_Investment.Form1.resources
+F:\Franchise Investment\Franchise Investment\obj\Debug\Franchise_Investment.Form2.resources
+F:\Franchise Investment\Franchise Investment\obj\Debug\Franchise_Investment.Resources.resources
+F:\Franchise Investment\Franchise Investment\obj\Debug\Franchise Investment.vbproj.GenerateResource.Cache
+F:\Franchise Investment\Franchise Investment\obj\Debug\Franchise Investment.exe
+F:\Franchise Investment\Franchise Investment\obj\Debug\Franchise Investment.xml
+F:\Franchise Investment\Franchise Investment\obj\Debug\Franchise Investment.pdb

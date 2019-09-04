@@ -22,24 +22,21 @@ Partial Class Form1
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(Form1))
         Me.lbl_TechJobFair = New System.Windows.Forms.Label()
         Me.lbl_AllStudentsAreWelcome = New System.Windows.Forms.Label()
         Me.btn_ViewJobFiarDetails = New System.Windows.Forms.Button()
         Me.lbl_Date = New System.Windows.Forms.Label()
         Me.lbl_LocatedInLochlanHall = New System.Windows.Forms.Label()
         Me.lbl_Room101 = New System.Windows.Forms.Label()
-        Me.PictureBox1 = New System.Windows.Forms.PictureBox()
         Me.btn_ExitWindow = New System.Windows.Forms.Button()
+        Me.PictureBox1 = New System.Windows.Forms.PictureBox()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'lbl_TechJobFair
         '
         Me.lbl_TechJobFair.AutoSize = True
-        Me.lbl_TechJobFair.Cursor = System.Windows.Forms.Cursors.IBeam
         Me.lbl_TechJobFair.Font = New System.Drawing.Font("Tahoma", 22.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.lbl_TechJobFair.ForeColor = System.Drawing.Color.ForestGreen
         Me.lbl_TechJobFair.Location = New System.Drawing.Point(136, 75)
         Me.lbl_TechJobFair.Name = "lbl_TechJobFair"
         Me.lbl_TechJobFair.Size = New System.Drawing.Size(628, 106)
@@ -97,37 +94,32 @@ Partial Class Form1
         Me.lbl_Room101.TabIndex = 6
         Me.lbl_Room101.Text = "Room 101"
         '
-        'PictureBox1
-        '
-        Me.PictureBox1.Image = CType(resources.GetObject("PictureBox1.Image"), System.Drawing.Image)
-        Me.PictureBox1.Location = New System.Drawing.Point(910, 44)
-        Me.PictureBox1.Name = "PictureBox1"
-        Me.PictureBox1.Size = New System.Drawing.Size(719, 1281)
-        Me.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
-        Me.PictureBox1.TabIndex = 8
-        Me.PictureBox1.TabStop = False
-        '
         'btn_ExitWindow
         '
-        Me.btn_ExitWindow.BackColor = System.Drawing.SystemColors.ControlLight
+        Me.btn_ExitWindow.AutoSize = True
         Me.btn_ExitWindow.Font = New System.Drawing.Font("Tahoma", 11.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btn_ExitWindow.ForeColor = System.Drawing.Color.Honeydew
-        Me.btn_ExitWindow.Location = New System.Drawing.Point(287, 1210)
+        Me.btn_ExitWindow.Location = New System.Drawing.Point(266, 1197)
         Me.btn_ExitWindow.Name = "btn_ExitWindow"
-        Me.btn_ExitWindow.Size = New System.Drawing.Size(279, 79)
-        Me.btn_ExitWindow.TabIndex = 9
+        Me.btn_ExitWindow.Size = New System.Drawing.Size(275, 63)
+        Me.btn_ExitWindow.TabIndex = 7
         Me.btn_ExitWindow.Text = "Exit Window"
-        Me.btn_ExitWindow.UseVisualStyleBackColor = False
+        Me.btn_ExitWindow.UseVisualStyleBackColor = True
+        '
+        'PictureBox1
+        '
+        Me.PictureBox1.Location = New System.Drawing.Point(910, 65)
+        Me.PictureBox1.Name = "PictureBox1"
+        Me.PictureBox1.Size = New System.Drawing.Size(723, 1292)
+        Me.PictureBox1.TabIndex = 8
+        Me.PictureBox1.TabStop = False
         '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(19.0!, 37.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.AutoSize = True
-        Me.BackColor = System.Drawing.Color.BlanchedAlmond
-        Me.ClientSize = New System.Drawing.Size(1657, 1345)
-        Me.Controls.Add(Me.btn_ExitWindow)
+        Me.ClientSize = New System.Drawing.Size(1707, 1491)
         Me.Controls.Add(Me.PictureBox1)
+        Me.Controls.Add(Me.btn_ExitWindow)
         Me.Controls.Add(Me.lbl_Room101)
         Me.Controls.Add(Me.lbl_LocatedInLochlanHall)
         Me.Controls.Add(Me.lbl_Date)
@@ -146,7 +138,7 @@ Partial Class Form1
     Friend WithEvents lbl_Date As System.Windows.Forms.Label
     Friend WithEvents lbl_LocatedInLochlanHall As System.Windows.Forms.Label
     Friend WithEvents lbl_Room101 As System.Windows.Forms.Label
-    Friend WithEvents PictureBox1 As System.Windows.Forms.PictureBox
     Friend WithEvents btn_ExitWindow As System.Windows.Forms.Button
+    Friend WithEvents PictureBox1 As System.Windows.Forms.PictureBox
 
 End Class

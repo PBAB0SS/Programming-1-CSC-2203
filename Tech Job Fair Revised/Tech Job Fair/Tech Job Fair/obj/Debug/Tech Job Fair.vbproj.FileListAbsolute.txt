@@ -1,0 +1,10 @@
+c:\users\big_n\documents\visual studio 2012\Projects\Tech Job Fair\Tech Job Fair\bin\Debug\Tech Job Fair.exe.config
+c:\users\big_n\documents\visual studio 2012\Projects\Tech Job Fair\Tech Job Fair\bin\Debug\Tech Job Fair.exe
+c:\users\big_n\documents\visual studio 2012\Projects\Tech Job Fair\Tech Job Fair\bin\Debug\Tech Job Fair.pdb
+c:\users\big_n\documents\visual studio 2012\Projects\Tech Job Fair\Tech Job Fair\bin\Debug\Tech Job Fair.xml
+c:\users\big_n\documents\visual studio 2012\Projects\Tech Job Fair\Tech Job Fair\obj\Debug\Tech_Job_Fair.Form1.resources
+c:\users\big_n\documents\visual studio 2012\Projects\Tech Job Fair\Tech Job Fair\obj\Debug\Tech_Job_Fair.Resources.resources
+c:\users\big_n\documents\visual studio 2012\Projects\Tech Job Fair\Tech Job Fair\obj\Debug\Tech Job Fair.vbproj.GenerateResource.Cache
+c:\users\big_n\documents\visual studio 2012\Projects\Tech Job Fair\Tech Job Fair\obj\Debug\Tech Job Fair.exe
+c:\users\big_n\documents\visual studio 2012\Projects\Tech Job Fair\Tech Job Fair\obj\Debug\Tech Job Fair.xml
+c:\users\big_n\documents\visual studio 2012\Projects\Tech Job Fair\Tech Job Fair\obj\Debug\Tech Job Fair.pdb

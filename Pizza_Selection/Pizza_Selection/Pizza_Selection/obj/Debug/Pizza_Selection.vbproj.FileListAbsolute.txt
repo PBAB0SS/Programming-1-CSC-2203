@@ -1,0 +1,10 @@
+c:\users\big_n\documents\visual studio 2012\Projects\Pizza_Selection\Pizza_Selection\bin\Debug\Pizza_Selection.exe.config
+c:\users\big_n\documents\visual studio 2012\Projects\Pizza_Selection\Pizza_Selection\bin\Debug\Pizza_Selection.exe
+c:\users\big_n\documents\visual studio 2012\Projects\Pizza_Selection\Pizza_Selection\bin\Debug\Pizza_Selection.pdb
+c:\users\big_n\documents\visual studio 2012\Projects\Pizza_Selection\Pizza_Selection\bin\Debug\Pizza_Selection.xml
+c:\users\big_n\documents\visual studio 2012\Projects\Pizza_Selection\Pizza_Selection\obj\Debug\Pizza_Selection.Form1.resources
+c:\users\big_n\documents\visual studio 2012\Projects\Pizza_Selection\Pizza_Selection\obj\Debug\Pizza_Selection.Resources.resources
+c:\users\big_n\documents\visual studio 2012\Projects\Pizza_Selection\Pizza_Selection\obj\Debug\Pizza_Selection.vbproj.GenerateResource.Cache
+c:\users\big_n\documents\visual studio 2012\Projects\Pizza_Selection\Pizza_Selection\obj\Debug\Pizza_Selection.exe
+c:\users\big_n\documents\visual studio 2012\Projects\Pizza_Selection\Pizza_Selection\obj\Debug\Pizza_Selection.xml
+c:\users\big_n\documents\visual studio 2012\Projects\Pizza_Selection\Pizza_Selection\obj\Debug\Pizza_Selection.pdb

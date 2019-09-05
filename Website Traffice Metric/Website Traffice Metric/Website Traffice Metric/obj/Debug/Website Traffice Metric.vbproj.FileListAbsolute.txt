@@ -1,0 +1,10 @@
+C:\Users\big_n\OneDrive - Palm Beach Atlantic University\Visual Studio 2012\Projects\Website Traffice Metric\Website Traffice Metric\bin\Debug\Website Traffice Metric.exe.config
+C:\Users\big_n\OneDrive - Palm Beach Atlantic University\Visual Studio 2012\Projects\Website Traffice Metric\Website Traffice Metric\bin\Debug\Website Traffice Metric.exe
+C:\Users\big_n\OneDrive - Palm Beach Atlantic University\Visual Studio 2012\Projects\Website Traffice Metric\Website Traffice Metric\bin\Debug\Website Traffice Metric.pdb
+C:\Users\big_n\OneDrive - Palm Beach Atlantic University\Visual Studio 2012\Projects\Website Traffice Metric\Website Traffice Metric\bin\Debug\Website Traffice Metric.xml
+C:\Users\big_n\OneDrive - Palm Beach Atlantic University\Visual Studio 2012\Projects\Website Traffice Metric\Website Traffice Metric\obj\Debug\Website_Traffice_Metric.Form1.resources
+C:\Users\big_n\OneDrive - Palm Beach Atlantic University\Visual Studio 2012\Projects\Website Traffice Metric\Website Traffice Metric\obj\Debug\Website_Traffice_Metric.Resources.resources
+C:\Users\big_n\OneDrive - Palm Beach Atlantic University\Visual Studio 2012\Projects\Website Traffice Metric\Website Traffice Metric\obj\Debug\Website Traffice Metric.vbproj.GenerateResource.Cache
+C:\Users\big_n\OneDrive - Palm Beach Atlantic University\Visual Studio 2012\Projects\Website Traffice Metric\Website Traffice Metric\obj\Debug\Website Traffice Metric.exe
+C:\Users\big_n\OneDrive - Palm Beach Atlantic University\Visual Studio 2012\Projects\Website Traffice Metric\Website Traffice Metric\obj\Debug\Website Traffice Metric.xml
+C:\Users\big_n\OneDrive - Palm Beach Atlantic University\Visual Studio 2012\Projects\Website Traffice Metric\Website Traffice Metric\obj\Debug\Website Traffice Metric.pdb

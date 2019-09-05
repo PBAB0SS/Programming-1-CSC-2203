@@ -1,0 +1,20 @@
+C:\Users\Student\AppData\Local\Temporary Projects\Currency Conversion\bin\Debug\Currency Conversion.exe.config
+C:\Users\Student\AppData\Local\Temporary Projects\Currency Conversion\bin\Debug\Currency Conversion.exe
+C:\Users\Student\AppData\Local\Temporary Projects\Currency Conversion\bin\Debug\Currency Conversion.pdb
+C:\Users\Student\AppData\Local\Temporary Projects\Currency Conversion\bin\Debug\Currency Conversion.xml
+C:\Users\Student\AppData\Local\Temporary Projects\Currency Conversion\obj\Debug\Currency_Conversion.Form1.resources
+C:\Users\Student\AppData\Local\Temporary Projects\Currency Conversion\obj\Debug\Currency_Conversion.Resources.resources
+C:\Users\Student\AppData\Local\Temporary Projects\Currency Conversion\obj\Debug\Currency Conversion.vbproj.GenerateResource.Cache
+C:\Users\Student\AppData\Local\Temporary Projects\Currency Conversion\obj\Debug\Currency Conversion.exe
+C:\Users\Student\AppData\Local\Temporary Projects\Currency Conversion\obj\Debug\Currency Conversion.xml
+C:\Users\Student\AppData\Local\Temporary Projects\Currency Conversion\obj\Debug\Currency Conversion.pdb
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Currency Conversion\Currency Conversion\bin\Debug\Currency Conversion.exe.config
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Currency Conversion\Currency Conversion\obj\Debug\Currency Conversion.exe
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Currency Conversion\Currency Conversion\obj\Debug\Currency Conversion.xml
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Currency Conversion\Currency Conversion\obj\Debug\Currency Conversion.pdb
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Currency Conversion\Currency Conversion\obj\Debug\Currency_Conversion.Form1.resources
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Currency Conversion\Currency Conversion\obj\Debug\Currency_Conversion.Resources.resources
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Currency Conversion\Currency Conversion\obj\Debug\Currency Conversion.vbproj.GenerateResource.Cache
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Currency Conversion\Currency Conversion\bin\Debug\Currency Conversion.exe
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Currency Conversion\Currency Conversion\bin\Debug\Currency Conversion.pdb
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Currency Conversion\Currency Conversion\bin\Debug\Currency Conversion.xml

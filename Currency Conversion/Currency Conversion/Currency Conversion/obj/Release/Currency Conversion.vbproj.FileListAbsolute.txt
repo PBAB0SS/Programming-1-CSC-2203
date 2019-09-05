@@ -1,0 +1,20 @@
+C:\Users\big_n\Documents\Visual Studio 2012\Projects\Currency Conversion1\Currency Conversion\Currency Conversion\bin\Release\Currency Conversion.exe.config
+C:\Users\big_n\Documents\Visual Studio 2012\Projects\Currency Conversion1\Currency Conversion\Currency Conversion\bin\Release\Currency Conversion.exe
+C:\Users\big_n\Documents\Visual Studio 2012\Projects\Currency Conversion1\Currency Conversion\Currency Conversion\bin\Release\Currency Conversion.pdb
+C:\Users\big_n\Documents\Visual Studio 2012\Projects\Currency Conversion1\Currency Conversion\Currency Conversion\bin\Release\Currency Conversion.xml
+C:\Users\big_n\Documents\Visual Studio 2012\Projects\Currency Conversion1\Currency Conversion\Currency Conversion\obj\Release\Currency_Conversion.Form1.resources
+C:\Users\big_n\Documents\Visual Studio 2012\Projects\Currency Conversion1\Currency Conversion\Currency Conversion\obj\Release\Currency_Conversion.Resources.resources
+C:\Users\big_n\Documents\Visual Studio 2012\Projects\Currency Conversion1\Currency Conversion\Currency Conversion\obj\Release\Currency Conversion.vbproj.GenerateResource.Cache
+C:\Users\big_n\Documents\Visual Studio 2012\Projects\Currency Conversion1\Currency Conversion\Currency Conversion\obj\Release\Currency Conversion.exe
+C:\Users\big_n\Documents\Visual Studio 2012\Projects\Currency Conversion1\Currency Conversion\Currency Conversion\obj\Release\Currency Conversion.xml
+C:\Users\big_n\Documents\Visual Studio 2012\Projects\Currency Conversion1\Currency Conversion\Currency Conversion\obj\Release\Currency Conversion.pdb
+C:\Users\big_n\OneDrive - Palm Beach Atlantic University\Freshman Year\Visual Studio 2012\Projects\Currency Conversion1\Currency Conversion\Currency Conversion\bin\Release\Currency Conversion.exe.config
+C:\Users\big_n\OneDrive - Palm Beach Atlantic University\Freshman Year\Visual Studio 2012\Projects\Currency Conversion1\Currency Conversion\Currency Conversion\obj\Release\Currency Conversion.exe
+C:\Users\big_n\OneDrive - Palm Beach Atlantic University\Freshman Year\Visual Studio 2012\Projects\Currency Conversion1\Currency Conversion\Currency Conversion\obj\Release\Currency Conversion.xml
+C:\Users\big_n\OneDrive - Palm Beach Atlantic University\Freshman Year\Visual Studio 2012\Projects\Currency Conversion1\Currency Conversion\Currency Conversion\obj\Release\Currency Conversion.pdb
+C:\Users\big_n\OneDrive - Palm Beach Atlantic University\Freshman Year\Visual Studio 2012\Projects\Currency Conversion1\Currency Conversion\Currency Conversion\bin\Release\Currency Conversion.exe
+C:\Users\big_n\OneDrive - Palm Beach Atlantic University\Freshman Year\Visual Studio 2012\Projects\Currency Conversion1\Currency Conversion\Currency Conversion\bin\Release\Currency Conversion.pdb
+C:\Users\big_n\OneDrive - Palm Beach Atlantic University\Freshman Year\Visual Studio 2012\Projects\Currency Conversion1\Currency Conversion\Currency Conversion\bin\Release\Currency Conversion.xml
+C:\Users\big_n\OneDrive - Palm Beach Atlantic University\Freshman Year\Visual Studio 2012\Projects\Currency Conversion1\Currency Conversion\Currency Conversion\obj\Release\Currency_Conversion.Form1.resources
+C:\Users\big_n\OneDrive - Palm Beach Atlantic University\Freshman Year\Visual Studio 2012\Projects\Currency Conversion1\Currency Conversion\Currency Conversion\obj\Release\Currency_Conversion.Resources.resources
+C:\Users\big_n\OneDrive - Palm Beach Atlantic University\Freshman Year\Visual Studio 2012\Projects\Currency Conversion1\Currency Conversion\Currency Conversion\obj\Release\Currency Conversion.vbproj.GenerateResource.Cache
